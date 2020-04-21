@@ -1,0 +1,298 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202003 will be lost/reset.
+# Last config file used to build this data file was /home/a10004981/tmp/awstats/ssl/awstats.10004981.2020.labnet.nz.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2025                
+POS_TIME 2683                
+POS_VISITOR 6894                
+POS_DAY 7437                
+POS_DOMAIN 3354                
+POS_LOGIN 3641                
+POS_ROBOT 3796                
+POS_WORMS 4021                
+POS_EMAILSENDER 4152                
+POS_EMAILRECEIVER 4295                
+POS_SESSION 7876                
+POS_SIDER 8071                
+POS_FILETYPES 4430                
+POS_DOWNLOADS 4650                
+POS_OS 4698                
+POS_BROWSER 4814                
+POS_SCREENSIZE 4999                
+POS_UNKNOWNREFERER 5073                
+POS_UNKNOWNREFERERBROWSER 5160                
+POS_ORIGIN 5242                
+POS_SEREFERRALS 5379                
+POS_PAGEREFS 5523                
+POS_SEARCHWORDS 5705                
+POS_KEYWORDS 5857                
+POS_MISC 2347                
+POS_ERRORS 5916                
+POS_CLUSTER 3497                
+POS_SIDER_404 6040                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200401043117 1 0 9951093618645
+FirstTime 0
+LastTime 20200328084303
+LastUpdate 20200402011218 1 0 0 0 0
+TotalVisits 29                  
+TotalUnique 11                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 11                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 1 35
+1 0 0 0 2 2 1291
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 2 2 37496
+7 27 98 10714625 1 15 0
+8 119 353 38121472 10 49 38814
+9 175 525 60319551 13 102 9571
+10 104 235 22619121 49 69 37473
+11 1 6 1070565 0 1 0
+12 11 16 16788 0 2 0
+13 10 16 786964 3 4 74922
+14 45 116 14588086 2 18 104
+15 42 120 15548585 2 19 1268
+16 91 169 15846492 1 16 37473
+17 84 207 28974072 3 31 0
+18 88 253 31992379 32 71 0
+19 177 298 29064371 28 61 67
+20 16 41 5373328 6 11 37461
+21 18 19 36030 8 9 0
+22 0 0 0 0 0 0
+23 0 0 0 1 1 37473
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+us 500 1276 167070922
+zz 263 551 45150330
+nz 244 641 62642022
+au 1 4 209155
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+bot[\s_+:,\.\;\/\\-] 11 303550 20200327233441 0
+facebookexternalhit/ 4 9240 20200307095129 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+html 76 115588 0 0
+css 583 47992685 0 0
+js 560 32047499 0 0
+jpg 13 563700 0 0
+jpeg 4 13773 0 0
+png 304 188089566 0 0
+php 920 4764386 0 0
+map 12 1485232 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+win10 2324 964
+ios_iphone 84 17
+linuxandroid 64 27
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+safari13.0.3 80 16
+chrome80.0.3987.149 269 44
+chrome80.0.3987.99 52 24
+chrome80.0.3987.122 5 1
+iphone 4 1
+chrome80.0.3987.132 2062 922
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 87 87
+From1 0 0
+From2 0 0
+From3 3 3
+From4 918 2382
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://cpanel.labnet.nz:2083 3 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+500 3 0
+404 58 80
+301 1 264
+302 103 0
+401 8 314
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 9
+/public_html/images/background1.png 19 https://10004981.2020.labnet.nz/css/style.css
+/images/phpDhhzp7 14 https://10004981.2020.labnet.nz/viewpage.php
+/newQuery.php 2 https://10004981.2020.labnet.nz/createpage.php
+/assignmen1.php 1 -
+/images/phphAMPxf 15 https://10004981.2020.labnet.nz/viewpage.php
+/week3.php 1 https://10004981.2020.labnet.nz/
+/public_html/css/style.css 2 https://10004981.2020.labnet.nz/
+/images/background2.png 3 https://10004981.2020.labnet.nz/css/style.css
+/update_entry.php 1 https://10004981.2020.labnet.nz/viewpage.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 11
+139.180.118.98 405 845 107599472 20200312212248
+203.109.149.176 242 632 61977320 20200318185519
+139.180.107.29 95 431 59471450 20200328084303
+172.20.1.154 85 133 1631754 20200309125525
+172.20.1.76 76 265 35274814 20200316110050
+172.20.1.117 58 99 8159465 20200318105359
+172.20.1.64 20 22 27826 20200310085826
+172.20.1.172 19 24 44283 20200311092655
+172.20.1.216 5 8 12188 20200312090614
+118.148.80.255 2 9 664702 20200323084023
+125.168.122.118 1 4 209155 20200307094458
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20200302 1 5 2121 1
+20200307 3 10 213586 2
+20200309 145 197 1712703 4
+20200310 51 65 82847 2
+20200311 23 33 1115202 2
+20200312 403 833 106534189 3
+20200313 23 102 14952785 1
+20200314 45 203 31104231 3
+20200315 56 156 16371500 2
+20200316 86 281 36061778 2
+20200317 40 99 8692850 2
+20200318 77 181 13863759 2
+20200323 2 9 664702 1
+20200325 34 208 31378814 1
+20200328 19 90 12321362 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30mn-1h 7
+5mn-15mn 2
+15mn-30mn 3
+30s-2mn 3
+1h+ 9
+0s-30s 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/viewpage.php 498 3952853 3 15
+/createpage.php 217 682137 1 5
+/add_entry.php 85 53667 0 3
+/ 69 111136 23 2
+/delete.php 42 2032 0 0
+/edit.php 38 11686 0 1
+/index.php 38 57391 1 1
+/10004981.2020.labnet.nz/ 7 4452 0 0
+/Bootstrap/css/bootstrap.css.map 6 984096 0 0
+/Bootstrap/js/bootstrap.js.map 6 501136 0 0
+/assignment1.php 2 4620 1 2
+END_SIDER

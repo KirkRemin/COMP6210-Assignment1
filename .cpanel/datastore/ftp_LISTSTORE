@@ -1,0 +1,1 @@
+{"data":[{"user":"a10004981","homedir":"/home/a10004981","type":"main"},{"homedir":"/etc/apache2/logs/domlogs/a10004981","type":"logaccess","user":"a10004981_logs"}],"timeout":0,"version":"2.4","action":"fetch","exit_code":0,"error":0,"statusmsg":"Ran adminbin Cpanel/ftp/LISTSTORE","mode":"simple","status":1}

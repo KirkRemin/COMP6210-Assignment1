@@ -1,0 +1,264 @@
+[18-Feb-2020 20:47:47 UTC] PHP Warning:  A non-numeric value encountered in /home/a10004981/public_html/index.php on line 17
+[18-Feb-2020 20:47:47 UTC] PHP Warning:  A non-numeric value encountered in /home/a10004981/public_html/index.php on line 17
+[18-Feb-2020 21:20:28 UTC] PHP Parse error:  syntax error, unexpected '$week2Link' (T_VARIABLE) in /home/a10004981/public_html/test.php on line 4
+[18-Feb-2020 21:20:31 UTC] PHP Parse error:  syntax error, unexpected '$week2Link' (T_VARIABLE) in /home/a10004981/public_html/test.php on line 4
+[18-Feb-2020 21:20:38 UTC] PHP Parse error:  syntax error, unexpected '$week2Link' (T_VARIABLE) in /home/a10004981/public_html/test.php on line 4
+[18-Feb-2020 21:21:48 UTC] PHP Parse error:  syntax error, unexpected '$week2Link' (T_VARIABLE) in /home/a10004981/public_html/test.php on line 4
+[18-Feb-2020 21:21:50 UTC] PHP Parse error:  syntax error, unexpected '$week2Link' (T_VARIABLE) in /home/a10004981/public_html/test.php on line 4
+[23-Feb-2020 20:03:17 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/a10004981/public_html/week2.php on line 14
+[23-Feb-2020 20:03:18 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/a10004981/public_html/week2.php on line 14
+[23-Feb-2020 20:03:19 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/a10004981/public_html/week2.php on line 14
+[23-Feb-2020 20:03:19 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/a10004981/public_html/week2.php on line 14
+[23-Feb-2020 20:03:19 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/a10004981/public_html/week2.php on line 14
+[23-Feb-2020 20:35:36 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/vars.php on line 21
+[23-Feb-2020 20:37:14 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/vars.php on line 21
+[23-Feb-2020 20:38:23 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/vars.php on line 21
+[23-Feb-2020 20:38:54 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/vars.php on line 21
+[23-Feb-2020 20:41:22 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/vars.php on line 21
+[23-Feb-2020 20:41:26 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/vars.php on line 21
+[23-Feb-2020 20:41:27 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/vars.php on line 21
+[23-Feb-2020 20:41:27 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/vars.php on line 21
+[23-Feb-2020 20:41:27 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/vars.php on line 21
+[23-Feb-2020 20:41:28 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/vars.php on line 21
+[23-Feb-2020 20:41:28 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/vars.php on line 21
+[23-Feb-2020 20:41:28 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/vars.php on line 21
+[23-Feb-2020 20:41:28 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/vars.php on line 21
+[23-Feb-2020 20:44:50 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/vars.php on line 21
+[23-Feb-2020 20:45:14 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/vars.php on line 21
+[23-Feb-2020 20:45:18 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/vars.php on line 21
+[23-Feb-2020 20:53:52 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/vars.php on line 21
+[23-Feb-2020 20:54:47 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/vars.php on line 21
+[23-Feb-2020 20:58:05 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/vars.php on line 23
+[23-Feb-2020 21:17:29 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/vars.php on line 23
+[23-Feb-2020 21:17:50 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/vars.php on line 23
+[23-Feb-2020 21:19:56 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/week2.php on line 25
+[23-Feb-2020 21:19:58 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/week2.php on line 25
+[23-Feb-2020 21:20:00 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/week2.php on line 25
+[23-Feb-2020 21:20:00 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/week2.php on line 25
+[23-Feb-2020 21:20:00 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/week2.php on line 25
+[23-Feb-2020 21:20:58 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/week2.php on line 25
+[23-Feb-2020 23:17:43 UTC] PHP Warning:  system() has been disabled for security reasons in /home/a10004981/public_html/week1.php on line 15
+[23-Feb-2020 23:17:47 UTC] PHP Warning:  system() has been disabled for security reasons in /home/a10004981/public_html/week1.php on line 15
+[23-Feb-2020 23:17:48 UTC] PHP Warning:  system() has been disabled for security reasons in /home/a10004981/public_html/week1.php on line 15
+[23-Feb-2020 23:17:50 UTC] PHP Warning:  system() has been disabled for security reasons in /home/a10004981/public_html/week1.php on line 15
+[23-Feb-2020 23:19:43 UTC] PHP Warning:  Use of undefined constant E_all - assumed 'E_all' (this will throw an Error in a future version of PHP) in /home/a10004981/public_html/week1.php on line 15
+[23-Feb-2020 23:19:59 UTC] PHP Warning:  Use of undefined constant E_all - assumed 'E_all' (this will throw an Error in a future version of PHP) in /home/a10004981/public_html/week1.php on line 15
+[23-Feb-2020 23:20:01 UTC] PHP Warning:  Use of undefined constant E_all - assumed 'E_all' (this will throw an Error in a future version of PHP) in /home/a10004981/public_html/week1.php on line 15
+[23-Feb-2020 23:20:02 UTC] PHP Warning:  Use of undefined constant E_all - assumed 'E_all' (this will throw an Error in a future version of PHP) in /home/a10004981/public_html/week1.php on line 15
+[23-Feb-2020 23:20:02 UTC] PHP Warning:  Use of undefined constant E_all - assumed 'E_all' (this will throw an Error in a future version of PHP) in /home/a10004981/public_html/week1.php on line 15
+[23-Feb-2020 23:21:13 UTC] PHP Warning:  Use of undefined constant E_all - assumed 'E_all' (this will throw an Error in a future version of PHP) in /home/a10004981/public_html/week1.php on line 16
+[23-Feb-2020 23:21:47 UTC] PHP Warning:  system() has been disabled for security reasons in /home/a10004981/public_html/week1.php on line 17
+[23-Feb-2020 23:21:47 UTC] PHP Warning:  Use of undefined constant E_all - assumed 'E_all' (this will throw an Error in a future version of PHP) in /home/a10004981/public_html/week1.php on line 19
+[23-Feb-2020 23:21:49 UTC] PHP Warning:  system() has been disabled for security reasons in /home/a10004981/public_html/week1.php on line 17
+[23-Feb-2020 23:21:49 UTC] PHP Warning:  Use of undefined constant E_all - assumed 'E_all' (this will throw an Error in a future version of PHP) in /home/a10004981/public_html/week1.php on line 19
+[23-Feb-2020 23:23:33 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/a10004981/public_html/week1.php on line 17
+[23-Feb-2020 23:23:33 UTC] PHP Warning:  Use of undefined constant E_all - assumed 'E_all' (this will throw an Error in a future version of PHP) in /home/a10004981/public_html/week1.php on line 20
+[23-Feb-2020 23:23:35 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/a10004981/public_html/week1.php on line 17
+[23-Feb-2020 23:23:35 UTC] PHP Warning:  Use of undefined constant E_all - assumed 'E_all' (this will throw an Error in a future version of PHP) in /home/a10004981/public_html/week1.php on line 20
+[23-Feb-2020 23:23:59 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/a10004981/public_html/week1.php on line 17
+[23-Feb-2020 23:23:59 UTC] PHP Warning:  Use of undefined constant E_all - assumed 'E_all' (this will throw an Error in a future version of PHP) in /home/a10004981/public_html/week1.php on line 20
+[23-Feb-2020 23:23:59 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/a10004981/public_html/week1.php on line 17
+[23-Feb-2020 23:23:59 UTC] PHP Warning:  Use of undefined constant E_all - assumed 'E_all' (this will throw an Error in a future version of PHP) in /home/a10004981/public_html/week1.php on line 20
+[23-Feb-2020 23:24:00 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/a10004981/public_html/week1.php on line 17
+[23-Feb-2020 23:24:00 UTC] PHP Warning:  Use of undefined constant E_all - assumed 'E_all' (this will throw an Error in a future version of PHP) in /home/a10004981/public_html/week1.php on line 20
+[23-Feb-2020 23:24:00 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/a10004981/public_html/week1.php on line 17
+[23-Feb-2020 23:24:00 UTC] PHP Warning:  Use of undefined constant E_all - assumed 'E_all' (this will throw an Error in a future version of PHP) in /home/a10004981/public_html/week1.php on line 20
+[23-Feb-2020 23:25:43 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/week2.php on line 28
+[23-Feb-2020 23:25:46 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/week2.php on line 28
+[23-Feb-2020 23:25:47 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/week2.php on line 28
+[23-Feb-2020 23:25:48 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/week2.php on line 28
+[23-Feb-2020 23:25:49 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/a10004981/public_html/week2.php on line 28
+[23-Feb-2020 23:26:08 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/a10004981/public_html/week2.php on line 31
+[23-Feb-2020 23:27:18 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/a10004981/public_html/week2.php on line 31
+[23-Feb-2020 23:28:58 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/a10004981/public_html/week2.php on line 31
+[23-Feb-2020 23:28:59 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/a10004981/public_html/week2.php on line 31
+[23-Feb-2020 23:29:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/a10004981/public_html/week2.php on line 31
+[23-Feb-2020 23:29:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/a10004981/public_html/week2.php on line 31
+[23-Feb-2020 23:32:41 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/a10004981/public_html/vars.php on line 14
+[23-Feb-2020 23:32:48 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/a10004981/public_html/vars.php on line 14
+[23-Feb-2020 23:32:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/a10004981/public_html/vars.php on line 14
+[23-Feb-2020 23:33:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/a10004981/public_html/vars.php on line 14
+[23-Feb-2020 23:34:02 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/a10004981/public_html/vars.php on line 14
+[23-Feb-2020 23:36:44 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/a10004981/public_html/vars.php on line 14
+[23-Feb-2020 23:37:12 UTC] PHP Warning:  Use of undefined constant E_all - assumed 'E_all' (this will throw an Error in a future version of PHP) in /home/a10004981/public_html/vars.php on line 2
+[23-Feb-2020 23:40:00 UTC] PHP Warning:  Use of undefined constant E_all - assumed 'E_all' (this will throw an Error in a future version of PHP) in /home/a10004981/public_html/vars.php on line 2
+[23-Feb-2020 23:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::connect_error() in /home/a10004981/public_html/vars.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/a10004981/public_html/vars.php on line 14
+[23-Feb-2020 23:48:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::sql_query() in /home/a10004981/public_html/vars.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/a10004981/public_html/vars.php on line 29
+[23-Feb-2020 23:49:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/a10004981/public_html/vars.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/a10004981/public_html/vars.php on line 29
+[23-Feb-2020 23:50:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/a10004981/public_html/vars.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/a10004981/public_html/vars.php on line 29
+[23-Feb-2020 23:50:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/a10004981/public_html/vars.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/a10004981/public_html/vars.php on line 29
+[23-Feb-2020 23:51:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysql_query() in /home/a10004981/public_html/vars.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/a10004981/public_html/vars.php on line 29
+[24-Feb-2020 19:54:11 UTC] PHP Warning:  mysqli::connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/a10004981/public_html/vars.php on line 13
+[24-Feb-2020 19:54:11 UTC] PHP Warning:  mysqli::select_db(): invalid object or resource mysqli
+ in /home/a10004981/public_html/vars.php on line 20
+[24-Feb-2020 19:54:11 UTC] PHP Warning:  mysqli::query(): invalid object or resource mysqli
+ in /home/a10004981/public_html/vars.php on line 27
+[24-Feb-2020 19:54:11 UTC] PHP Warning:  mysqli::close(): invalid object or resource mysqli
+ in /home/a10004981/public_html/vars.php on line 33
+[25-Feb-2020 02:32:03 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/a10004981/public_html/vars.php on line 46
+[25-Feb-2020 02:35:07 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/a10004981/public_html/vars.php on line 48
+[25-Feb-2020 02:35:43 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/a10004981/public_html/vars.php on line 49
+[25-Feb-2020 02:36:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function print_var() in /home/a10004981/public_html/vars.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/a10004981/public_html/vars.php on line 49
+[25-Feb-2020 02:46:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a10004981/public_html/vars.php on line 61
+[25-Feb-2020 02:52:16 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/a10004981/public_html/week1.php on line 23
+[25-Feb-2020 02:52:16 UTC] PHP Warning:  Use of undefined constant E_all - assumed 'E_all' (this will throw an Error in a future version of PHP) in /home/a10004981/public_html/week1.php on line 26
+[08-Mar-2020 21:36:10 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/a10004981/public_html/connectionprops.php on line 17
+[08-Mar-2020 21:38:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/a10004981/public_html/connect.php on line 12
+[08-Mar-2020 21:39:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'a1000498_Kirk'@'localhost' (using password: YES) in /home/a10004981/public_html/connect.php on line 4
+[08-Mar-2020 21:39:15 UTC] PHP Warning:  mysqli::connect(): (HY000/1045): Access denied for user 'a1000498_Kirk'@'localhost' (using password: YES) in /home/a10004981/public_html/connect.php on line 5
+[08-Mar-2020 21:39:15 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/a10004981/public_html/connect.php on line 6
+[08-Mar-2020 21:40:46 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/a10004981/public_html/connect.php on line 6
+[08-Mar-2020 21:41:15 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/a10004981/public_html/connect.php on line 7
+[09-Mar-2020 03:55:19 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/a10004981/public_html/connect.php on line 32
+[09-Mar-2020 03:55:41 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/a10004981/public_html/connect.php on line 32
+[09-Mar-2020 03:55:47 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/a10004981/public_html/connect.php on line 32
+[09-Mar-2020 03:56:14 UTC] PHP Warning:  include(create_table.php): failed to open stream: No such file or directory in /home/a10004981/public_html/viewpage.php on line 17
+[09-Mar-2020 03:56:14 UTC] PHP Warning:  include(): Failed opening 'create_table.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/a10004981/public_html/viewpage.php on line 17
+[09-Mar-2020 03:57:20 UTC] PHP Warning:  include(create_table.php): failed to open stream: No such file or directory in /home/a10004981/public_html/viewpage.php on line 17
+[09-Mar-2020 03:57:20 UTC] PHP Warning:  include(): Failed opening 'create_table.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/a10004981/public_html/viewpage.php on line 17
+[09-Mar-2020 03:59:21 UTC] PHP Warning:  include(create_table.php): failed to open stream: No such file or directory in /home/a10004981/public_html/viewpage.php on line 17
+[09-Mar-2020 03:59:21 UTC] PHP Warning:  include(): Failed opening 'create_table.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/a10004981/public_html/viewpage.php on line 17
+[09-Mar-2020 04:03:04 UTC] PHP Warning:  include(create_table.php): failed to open stream: No such file or directory in /home/a10004981/public_html/viewpage.php on line 17
+[09-Mar-2020 04:03:04 UTC] PHP Warning:  include(): Failed opening 'create_table.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/a10004981/public_html/viewpage.php on line 17
+[09-Mar-2020 04:03:31 UTC] PHP Warning:  include(create_table.php): failed to open stream: No such file or directory in /home/a10004981/public_html/viewpage.php on line 17
+[09-Mar-2020 04:03:31 UTC] PHP Warning:  include(): Failed opening 'create_table.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/a10004981/public_html/viewpage.php on line 17
+[09-Mar-2020 04:03:55 UTC] PHP Warning:  include(create_table.php): failed to open stream: No such file or directory in /home/a10004981/public_html/viewpage.php on line 17
+[09-Mar-2020 04:03:55 UTC] PHP Warning:  include(): Failed opening 'create_table.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/a10004981/public_html/viewpage.php on line 17
+[09-Mar-2020 06:12:32 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /home/a10004981/public_html/add_entry.php on line 48
+[09-Mar-2020 06:12:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/a10004981/public_html/add_entry.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/a10004981/public_html/add_entry.php on line 22
+[10-Mar-2020 18:52:10 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/a10004981/public_html/add_entry.php on line 63
+[10-Mar-2020 21:41:36 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/a10004981/public_html/add_entry.php on line 66
+[10-Mar-2020 21:43:43 UTC] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/a10004981/public_html/add_entry.php on line 66
+[10-Mar-2020 21:55:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/a10004981/public_html/add_entry.php on line 77
+[10-Mar-2020 21:56:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/a10004981/public_html/add_entry.php on line 67
+[10-Mar-2020 21:57:40 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/a10004981/public_html/add_entry.php on line 67
+[12-Mar-2020 01:56:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a10004981/public_html/display_table.php on line 26
+[12-Mar-2020 01:57:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a10004981/public_html/display_table.php on line 26
+[12-Mar-2020 01:57:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a10004981/public_html/display_table.php on line 26
+[12-Mar-2020 01:57:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a10004981/public_html/display_table.php on line 26
+[12-Mar-2020 01:57:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/a10004981/public_html/display_table.php:17
+Stack trace:
+#0 /home/a10004981/public_html/viewpage.php(17): include()
+#1 {main}
+  thrown in /home/a10004981/public_html/display_table.php on line 17
+[12-Mar-2020 02:00:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/a10004981/public_html/display_table.php:17
+Stack trace:
+#0 /home/a10004981/public_html/viewpage.php(17): include()
+#1 {main}
+  thrown in /home/a10004981/public_html/display_table.php on line 17
+[12-Mar-2020 02:01:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/a10004981/public_html/display_table.php:17
+Stack trace:
+#0 /home/a10004981/public_html/viewpage.php(17): include()
+#1 {main}
+  thrown in /home/a10004981/public_html/display_table.php on line 17
+[12-Mar-2020 02:01:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/a10004981/public_html/display_table.php:17
+Stack trace:
+#0 /home/a10004981/public_html/viewpage.php(17): include()
+#1 {main}
+  thrown in /home/a10004981/public_html/display_table.php on line 17
+[12-Mar-2020 02:01:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/a10004981/public_html/display_table.php:17
+Stack trace:
+#0 /home/a10004981/public_html/viewpage.php(17): include()
+#1 {main}
+  thrown in /home/a10004981/public_html/display_table.php on line 17
+[12-Mar-2020 02:18:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/viewpage.php:1) in /home/a10004981/public_html/display_table.php on line 24
+[12-Mar-2020 03:02:09 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/a10004981/public_html/display_table.php on line 40
+[12-Mar-2020 03:02:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/a10004981/public_html/display_table.php on line 40
+[12-Mar-2020 03:04:52 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/a10004981/public_html/display_table.php on line 40
+[12-Mar-2020 03:05:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/a10004981/public_html/display_table.php on line 42
+[12-Mar-2020 03:06:00 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/a10004981/public_html/display_table.php on line 42
+[12-Mar-2020 03:06:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/a10004981/public_html/display_table.php on line 42
+[12-Mar-2020 03:06:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/a10004981/public_html/display_table.php on line 42
+[12-Mar-2020 03:08:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/a10004981/public_html/display_table.php on line 42
+[12-Mar-2020 03:13:47 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/a10004981/public_html/display_table.php on line 42
+[12-Mar-2020 03:13:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/a10004981/public_html/display_table.php on line 42
+[12-Mar-2020 03:47:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a10004981/public_html/add_entry.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/a10004981/public_html/add_entry.php on line 22
+[12-Mar-2020 03:48:45 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/a10004981/public_html/add_entry.php on line 22
+[12-Mar-2020 03:48:45 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/a10004981/public_html/add_entry.php on line 23
+[12-Mar-2020 03:48:45 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/a10004981/public_html/add_entry.php on line 24
+[12-Mar-2020 03:48:45 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/a10004981/public_html/add_entry.php on line 25
+[12-Mar-2020 03:51:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/a10004981/public_html/add_entry.php on line 22
+[12-Mar-2020 03:51:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/a10004981/public_html/add_entry.php on line 23
+[12-Mar-2020 03:51:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/a10004981/public_html/add_entry.php on line 24
+[12-Mar-2020 03:53:57 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/a10004981/public_html/add_entry.php on line 22
+[12-Mar-2020 03:53:57 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/a10004981/public_html/add_entry.php on line 23
+[12-Mar-2020 03:53:57 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/a10004981/public_html/add_entry.php on line 24
+[12-Mar-2020 03:54:39 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/a10004981/public_html/add_entry.php on line 22
+[12-Mar-2020 03:54:39 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/a10004981/public_html/add_entry.php on line 23
+[12-Mar-2020 03:54:39 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/a10004981/public_html/add_entry.php on line 24
+[12-Mar-2020 04:12:18 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/a10004981/public_html/display_table.php on line 24
+[12-Mar-2020 04:31:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/a10004981/public_html/delete.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/a10004981/public_html/delete.php on line 4
+[12-Mar-2020 04:59:38 UTC] PHP Fatal error:  Cannot redeclare delete_function() (previously declared in /home/a10004981/public_html/viewpage.php:19) in /home/a10004981/public_html/display_table.php on line 63
+[12-Mar-2020 06:09:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/add_entry.php:13) in /home/a10004981/public_html/add_entry.php on line 80
+[12-Mar-2020 06:11:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/add_entry.php:13) in /home/a10004981/public_html/add_entry.php on line 82
+[12-Mar-2020 06:12:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/add_entry.php:13) in /home/a10004981/public_html/add_entry.php on line 82
+[12-Mar-2020 06:12:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/add_entry.php:13) in /home/a10004981/public_html/add_entry.php on line 82
+[12-Mar-2020 06:20:02 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/a10004981/public_html/delete.php on line 26
+[12-Mar-2020 06:35:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/a10004981/public_html/delete.php on line 24
+[12-Mar-2020 06:35:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/delete.php:24) in /home/a10004981/public_html/delete.php on line 31
+[12-Mar-2020 06:36:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_result() in /home/a10004981/public_html/delete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/a10004981/public_html/delete.php on line 23
+[12-Mar-2020 06:36:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/a10004981/public_html/delete.php on line 24
+[12-Mar-2020 06:36:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/delete.php:24) in /home/a10004981/public_html/delete.php on line 31
+[12-Mar-2020 06:41:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/a10004981/public_html/delete.php on line 24
+[12-Mar-2020 06:48:18 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/a10004981/public_html/delete.php on line 29
+[12-Mar-2020 06:48:29 UTC] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/a10004981/public_html/delete.php on line 32
+[14-Mar-2020 19:04:23 UTC] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET) in /home/a10004981/public_html/edit.php on line 4
+[14-Mar-2020 19:04:45 UTC] PHP Parse error:  syntax error, unexpected '$object_class' (T_VARIABLE) in /home/a10004981/public_html/edit.php on line 7
+[14-Mar-2020 19:05:35 UTC] PHP Parse error:  syntax error, unexpected '$object_class' (T_VARIABLE) in /home/a10004981/public_html/edit.php on line 15
+[14-Mar-2020 19:06:10 UTC] PHP Parse error:  syntax error, unexpected '$object_class' (T_VARIABLE) in /home/a10004981/public_html/edit.php on line 15
+[14-Mar-2020 19:07:40 UTC] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET) in /home/a10004981/public_html/edit.php on line 4
+[14-Mar-2020 19:07:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a10004981/public_html/edit.php on line 38
+[14-Mar-2020 19:09:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/connect.php:1) in /home/a10004981/public_html/edit.php on line 38
+[14-Mar-2020 19:09:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/edit.php:1) in /home/a10004981/public_html/edit.php on line 46
+[15-Mar-2020 20:44:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/edit.php:1) in /home/a10004981/public_html/edit.php on line 53
+[15-Mar-2020 20:45:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/edit.php:1) in /home/a10004981/public_html/edit.php on line 55
+[15-Mar-2020 20:53:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/edit.php:1) in /home/a10004981/public_html/edit.php on line 54
+[15-Mar-2020 20:53:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/edit.php:1) in /home/a10004981/public_html/edit.php on line 54
+[15-Mar-2020 20:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/edit.php:1) in /home/a10004981/public_html/edit.php on line 10
+[15-Mar-2020 20:55:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/edit.php:1) in /home/a10004981/public_html/edit.php on line 55
+[15-Mar-2020 20:56:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/edit.php:1) in /home/a10004981/public_html/edit.php on line 54
+[15-Mar-2020 20:56:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/edit.php:1) in /home/a10004981/public_html/edit.php on line 55
+[15-Mar-2020 20:56:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/edit.php:1) in /home/a10004981/public_html/edit.php on line 54
+[15-Mar-2020 20:56:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/edit.php:1) in /home/a10004981/public_html/edit.php on line 55
+[15-Mar-2020 20:58:00 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/a10004981/public_html/edit.php on line 53
+[15-Mar-2020 20:58:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/edit.php:1) in /home/a10004981/public_html/edit.php on line 52
+[15-Mar-2020 20:58:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/edit.php:1) in /home/a10004981/public_html/edit.php on line 53
+[15-Mar-2020 21:04:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a10004981/public_html/createpage.php:1) in /home/a10004981/public_html/add_entry.php on line 73
+[17-Mar-2020 20:04:17 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/a10004981/public_html/add_entry.php on line 29
+[17-Mar-2020 20:37:15 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/a10004981/public_html/add_entry.php on line 51
+[17-Mar-2020 20:52:41 UTC] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/a10004981/public_html/add_entry.php on line 32
+[17-Mar-2020 20:52:41 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDhhzp7' to 'images/' in /home/a10004981/public_html/add_entry.php on line 32
+[17-Mar-2020 20:54:54 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/a10004981/public_html/add_entry.php on line 30
